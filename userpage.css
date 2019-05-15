@@ -1,0 +1,102 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+#navBar {
+    background-color: #343a40;
+    font-family: 'Gugi', cursive;
+    text-shadow: 3px 3px black;
+    outline: 2px solid black
+  }
+
+  #signoutBtn {
+      background-color: #85144b;
+      border: 2px solid black;
+      text-shadow: 3px 3px black;
+  }
+
+  p {
+    font-family: 'Gugi', cursive;
+    text-decoration: underline;
+    text-shadow: 1px 1px black;
+      color: white;
+      /* padding-top: -10px;
+      padding-bottom: 10px; */
+      font-size: 20px;
+    
+  }
+
+  div.container {
+    background-color: #343a40;
+    text-align: center;
+    width: 21%;
+    height: 600px;
+    float: left;
+    margin-top: 30px;
+    margin-right: 30px;
+    border: 3px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 10px black;
+  }
+
+      
+      img {
+          float: center;
+          border-radius: 50%;
+          margin-left: 40px;
+          margin-right: 40px;
+          margin-top: 10px;
+          border: 2px solid black;
+          box-shadow: 5px 10px black;
+          margin-bottom: 10px;
+          
+      }
+
+      #musicProf {
+         background-color: #343a40;
+         width: 950px;
+         height: 500px;
+         color: white;
+         margin-top: -545px;
+         margin-left: 85px;
+         font-family: 'Gugi', cursive;
+    text-decoration: underline;
+    text-shadow: 2px 2px black;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+         border: 2px solid black;
+          box-shadow: 5px 10px black;
+         /* margin-right: 400px; */
+         /* float: left; */
+      }
+
+      /* #musicProf {
+        background-color: #343a40;
+        border-radius: 10px;
+        padding: 10px;
+        /* width: 100px;
+        height: 100px; */
+        /* margin-left: 50px;
+        margin-right: 50px;
+        border: 3px solid black;
+        box-shadow: 5px 10px black;  
+      } */ 
+
+      #userPlaylist {
+        background-color: #343a40;
+        border-radius: 10px;
+        padding: 10px; 
+        width: 200px;
+        height: 100px;
+        border: 3px solid black;
+        box-shadow: 5px 10px black;
+      }
+

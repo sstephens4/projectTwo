@@ -1,0 +1,62 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: 'Gugi', cursive;
+}
+
+header {
+  height: 250px;
+  background-color: white;
+}
+
+.container {
+  width: 100%;
+
+}
+
+.loginSignUp {
+
+  font-size: 25px;
+  color: white;
+  font-family: 'Gugi', cursive;
+
+}
+
+
+h1 {
+  font-size: 130px;
+  color:whitesmoke;
+  text-shadow: 9px 7px rgb(0, 0, 0);
+}
+
+h2 {
+  font-size: 50px;
+  color:rgb(26, 25, 25);
+  text-shadow: 5px 3px rgb(253, 182, 246);
+  letter-spacing: 12px;
+}
+
+h5 {
+  font-size: 15px;
+}
+
+.range-field {
+  width: 500px;
+  margin-left: 120px;
+  margin-bottom: 20px;
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
+
+.card{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
